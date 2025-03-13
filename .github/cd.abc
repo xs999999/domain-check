@@ -1,5 +1,8 @@
 [
    { "domain": "singbox9999.pp.ua", "registrationDate": "2025-02-20", "expirationDate": "2026-02-10", "system": "nic.ua", "systemURL": "https://nic.ua/en/my" },
   { "domain": "u2000.us.kg", "registrationDate": "2024-06-01", "expirationDate": "2026-06-01", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org" },
-  { "domain": "singbox99999.us.kg", "registrationDate": "2024-12-28", "expirationDate": "2025-12-28", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org" }
+  { "domain": "singbox99999.us.kg", "registrationDate": "2024-12-28", "expirationDate": "2025-12-28", "system": "us.kg", "systemURL": "https://dash.domain.digitalplat.org" },
+  { "domain": "singbox9999.zone.id", "registrationDate": "2025-03-13", "expirationDate": "2026-03-13", "system": "zone.id", "systemURL": "https://my.zone.id/subdomains" },
+  { "domain": "nce-t.zone.id", "registrationDate": "2025-03-13", "expirationDate": "2026-03-13", "system": "zone.id", "systemURL": "https://my.zone.id/subdomains" },
+  { "domain": "u2000.zone.id", "registrationDate": "2025-03-13", "expirationDate": "2026-03-13", "system": "zone.id", "systemURL": "https://my.zone.id/subdomains" }
 ]
